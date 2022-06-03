@@ -10,7 +10,7 @@ int main(void)
 
 	a = 0;
 
-	while(a < 100)
+	while (a < 100)
 	{
 		b = a % 10;
 		c = b / 10;
