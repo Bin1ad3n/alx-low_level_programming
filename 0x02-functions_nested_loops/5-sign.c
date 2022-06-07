@@ -6,7 +6,7 @@
  * Return: 0
  */
 
-int print_sign(int n)
+int print_sign(int c)
 {
 	if (c > 0)
 	{
