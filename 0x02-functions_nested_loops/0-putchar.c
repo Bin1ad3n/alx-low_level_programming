@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * main - main block
+ * _putchar - putchar
  * Return: 0
  */
 
-int main(void)
+int _putchar(char c)
 {
 	_putchar("_putchar\n");
 
