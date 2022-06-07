@@ -15,4 +15,6 @@ int main(void)
 	0-putchar('a');
 	0-putchar('r');
 	0-putchar('\n');
+
+	return (0);
 }
