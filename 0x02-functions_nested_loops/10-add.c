@@ -7,7 +7,7 @@
  * Return: 0
  */
 
-int add(int, int)
+int add(int m, int n)
 {
 	return ( m + n)
 }
