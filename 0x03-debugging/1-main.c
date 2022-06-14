@@ -2,7 +2,7 @@
 
 /**
  * main - causes an infinite loop
- * \\o/\n - Infinite
+ * Descripyion: Infinite
  * Return: 0
  */
 
